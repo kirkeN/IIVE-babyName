@@ -1,4 +1,4 @@
-# iseseisev1
-Esimene Java projekt.
-Autorid Kirke Narusk ja Veronika Mooses
-Tartu Ülikooli aine Objekt-orienteeritud programmeerimine 2013 raames 
+# 
+My 1st Java project
+Authors Kirke Narusk & Veronika Mooses
+University of Tartu, OOP, 2013
